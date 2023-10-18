@@ -1,0 +1,5 @@
+# Google Apps Script specific files and folders
+.clasp.json
+node_modules/
+.vscode/
+*.log
